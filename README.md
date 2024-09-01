@@ -1,0 +1,2 @@
+# BluetoothControlsGalaxyWatch3Tizen
+test
